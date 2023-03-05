@@ -15,4 +15,4 @@ Command-line Instructions
     * Need to be located inside of project root directory 
     * For compile run ``` './gradlew clean build ```
     * Run project with ``` './gradlew run --args='basic_example'```
-    * Project can be run with multiple arguments
+    * Project can be run with multiple arguments separated with space
